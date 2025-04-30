@@ -29,7 +29,15 @@
       "A6A9AA": { "name": "Silver",           "code": "10102" },
       "5B6579": { "name": "Blue Gray",        "code": "10602" },
       "545454": { "name": "Dark Gray",        "code": "10105" },
-      "000000": { "name": "Black",            "code": "10101" }
+      "000000": { "name": "Black",            "code": "10101" },
+      "E7C1D5;8EC9E9": { "name": "Cotton Candy Cloud",  "code": "10907" },
+      "6FCAEF;8573DD": { "name": "Blueberry Bubblegum", "code": "10905" },
+      "F78F77;E4505A": { "name": "Pink Citrus",         "code": "10903" },
+      "B6FF43;4EC939": { "name": "Mint Lime",           "code": "10904" },
+      "ED9558;CE4406": { "name": "Dusk Glare",          "code": "10906" },
+      "307FE2;54FF9B": { "name": "Ocean to Meadow",     "code": "10902" },
+      "9CDBD9;FFFFFF": { "name": "Arctic Whisper",      "code": "10900" },
+      "E94B3C;FFFFFF": { "name": "Solar Breeze",        "code": "10901" }
     },
     "PLA Matte": {
       "FFFFFF": { "name": "Ivory White",     "code": "11100" },
@@ -58,7 +66,7 @@
       "B15533": { "name": "Terracotta",      "code": "11203" },
       "757575": { "name": "Nardo Gray",      "code": "11104" }
     },
-    "PLA Silk+": {
+    "PLA Silk": {
       "5F6367": { "name": "Titan Gray", "code": "13108" },
       "BA9594": { "name": "Rose Gold",  "code": "13206" },
       "A8C6EE": { "name": "Baby Blue",  "code": "13603" },
@@ -71,24 +79,12 @@
       "F7ADA6": { "name": "Pink",       "code": "13207" },
       "FFFFFF": { "name": "White",      "code": "13110" },
       "C8C8C8": { "name": "Silver",     "code": "13109" },
-      "F4A925": { "name": "Gold",       "code": "13405" }
-    },
-    "PLA Silk Dual Color": {
+      "F4A925": { "name": "Gold",       "code": "13405" },
       "000000;A34342": { "name": "Velvet Eclipse (Black-Red)", "code": "?????" },
       "0047BB;7D1B49": { "name": "Midnight Blaze (Blue-Red)",  "code": "?????" },
-      "0047BB;BB22A3": { "name": "Neon City (Blue-Magenta)",   "code": "?????" },
+      "0047BB;BB22A3": { "name": "Neon City (Blue-Magenta)",   "code": "13903" },
       "FF9425;FCA2BF": { "name": "Gilded Rose (Pink-Gold)",    "code": "?????" },
       "60A4E8;4CE4A0": { "name": "Blue Hawaii (Blue-Green)",   "code": "?????" }
-    },
-    "PLA Basic Gradient": {
-      "E7C1D5;8EC9E9": { "name": "Cotton Candy Cloud",  "code": "10907" },
-      "6FCAEF;8573DD": { "name": "Blueberry Bubblegum", "code": "10905" },
-      "F78F77;E4505A": { "name": "Pink Citrus",         "code": "10903" },
-      "B6FF43;4EC939": { "name": "Mint Lime",           "code": "10904" },
-      "ED9558;CE4406": { "name": "Dusk Glare",          "code": "10906" },
-      "307FE2;54FF9B": { "name": "Ocean to Meadow",     "code": "10902" },
-      "9CDBD9;FFFFFF": { "name": "Arctic Whisper",      "code": "10900" },
-      "E94B3C;FFFFFF": { "name": "Solar Breeze",        "code": "10901" }
     },
     "PLA Glow": {
       "FF9D5B": { "name": "Glow Orange", "code": "15300" },
@@ -268,4 +264,3 @@
       "000000": { "name": "Black",  "code": "72104" }
     }
   }
-  
